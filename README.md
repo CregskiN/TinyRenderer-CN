@@ -10,7 +10,7 @@
 - [x] Lesson 1: Bresenham’s Line Drawing Algorithm
 - [x] Lesson 2: Triangle rasterization and back face culling
 - [x] Lesson 3: Hidden faces removal (z buffer)
-- [ ] Lesson 4: Perspective projection
+- [x] Lesson 4: Perspective projection
 - [ ] Lesson 5: Moving the camera
 - [ ] Lesson 6: Shaders for the software renderer
 - [ ] Lesson 6bis: tangent space normal mapping
