@@ -6,20 +6,20 @@
 
 ## 当前翻译进度：
 
-- [x] Lesson 0: getting started
-- [x] Lesson 1: Bresenham’s Line Drawing Algorithm
-- [x] Lesson 2: Triangle rasterization and back face culling
-- [x] Lesson 3: Hidden faces removal (z buffer)
-- [x] Lesson 4: Perspective projection
-- [ ] Lesson 5: Moving the camera
-- [ ] Lesson 6: Shaders for the software renderer
-- [ ] Lesson 6bis: tangent space normal mapping
-- [ ] Lesson 7: Shadow mapping
-- [ ] Lesson 8: Ambient occlusion
-- [ ] Lesson 9: Real OpenGL (GLSL) application
-- [ ] Technical difficulties: cpp classes for vectors and matrices
-- [ ] Technical difficulties: linear interpolation with perspective deformations
-- [ ] Visual troubleshooting
+-   [x] Lesson 0: getting started
+-   [x] Lesson 1: Bresenham’s Line Drawing Algorithm
+-   [x] Lesson 2: Triangle rasterization and back face culling
+-   [x] Lesson 3: Hidden faces removal (z buffer)
+-   [x] Lesson 4: Perspective projection
+-   [ ] Lesson 5: Moving the camera
+-   [ ] Lesson 6: Shaders for the software renderer
+-   [ ] Lesson 6bis: tangent space normal mapping
+-   [ ] Lesson 7: Shadow mapping
+-   [ ] Lesson 8: Ambient occlusion
+-   [ ] Lesson 9: Real OpenGL (GLSL) application
+-   [ ] Technical difficulties: cpp classes for vectors and matrices
+-   [ ] Technical difficulties: linear interpolation with perspective deformations
+-   [ ] Visual troubleshooting
 
 
 
