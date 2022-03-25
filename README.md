@@ -11,8 +11,8 @@
 -   [x] Lesson 2: Triangle rasterization and back face culling
 -   [x] Lesson 3: Hidden faces removal (z buffer)
 -   [x] Lesson 4: Perspective projection
--   [ ] Lesson 5: Moving the camera
--   [ ] Lesson 6: Shaders for the software renderer
+-   [x] Lesson 5: Moving the camera
+-   [x] Lesson 6: Shaders for the software renderer
 -   [ ] Lesson 6bis: tangent space normal mapping
 -   [ ] Lesson 7: Shadow mapping
 -   [ ] Lesson 8: Ambient occlusion
