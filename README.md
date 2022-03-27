@@ -13,7 +13,7 @@
 -   [x] Lesson 4: Perspective projection
 -   [x] Lesson 5: Moving the camera
 -   [x] Lesson 6: Shaders for the software renderer
--   [ ] Lesson 6bis: tangent space normal mapping
+-   [x] Lesson 6bis: tangent space normal mapping
 -   [ ] Lesson 7: Shadow mapping
 -   [ ] Lesson 8: Ambient occlusion
 -   [ ] Lesson 9: Real OpenGL (GLSL) application
