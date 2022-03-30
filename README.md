@@ -15,7 +15,7 @@
 -   [x] Lesson 6: Shaders for the software renderer
 -   [x] Lesson 6bis: tangent space normal mapping
 -   [x] Lesson 7: Shadow mapping
--   [ ] Lesson 8: Ambient occlusion
+-   [x] Lesson 8: Ambient occlusion
 -   [ ] Lesson 9: Real OpenGL (GLSL) application
 -   [ ] Technical difficulties: cpp classes for vectors and matrices
 -   [ ] Technical difficulties: linear interpolation with perspective deformations
