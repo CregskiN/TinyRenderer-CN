@@ -18,7 +18,7 @@
 -   [x] Lesson 8: Ambient occlusion
 -   [ ] Lesson 9: Real OpenGL (GLSL) application
 -   [ ] Technical difficulties: cpp classes for vectors and matrices
--   [ ] Technical difficulties: linear interpolation with perspective deformations
+-   [x] Technical difficulties: linear interpolation with perspective deformations
 -   [ ] Visual troubleshooting
 
 
